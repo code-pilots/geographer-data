@@ -565,7 +565,7 @@
         "ids": {
             "fips": "RQ",
             "geonames": 4566966,
-            "iso_3166_2": "US-RQ"
+            "iso_3166_2": "US-PR"
         },
         "long": {
             "default": "Puerto Rico"
@@ -576,18 +576,7 @@
         "ids": {
             "fips": "VQ",
             "geonames": 4796775,
-            "iso_3166_2": "US-VQ"
-        },
-        "long": {
-            "default": "U.S. Virgin Islands"
-        }
-    },
-    {
-        "parent": "US",
-        "ids": {
-            "fips": "VQ",
-            "geonames": 4796775,
-            "iso_3166_2": "US-VQ"
+            "iso_3166_2": "US-VI"
         },
         "long": {
             "default": "U.S. Virgin Islands"
