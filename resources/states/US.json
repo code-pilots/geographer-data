@@ -559,5 +559,38 @@
         "long": {
             "default": "Virginia"
         }
+    },
+    {
+        "parent": "US",
+        "ids": {
+            "fips": "RQ",
+            "geonames": 4566966,
+            "iso_3166_2": "US-RQ"
+        },
+        "long": {
+            "default": "Puerto Rico"
+        }
+    },
+    {
+        "parent": "US",
+        "ids": {
+            "fips": "VQ",
+            "geonames": 4796775,
+            "iso_3166_2": "US-VQ"
+        },
+        "long": {
+            "default": "U.S. Virgin Islands"
+        }
+    },
+    {
+        "parent": "US",
+        "ids": {
+            "fips": "VQ",
+            "geonames": 4796775,
+            "iso_3166_2": "US-VQ"
+        },
+        "long": {
+            "default": "U.S. Virgin Islands"
+        }
     }
 ]
