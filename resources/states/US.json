@@ -581,5 +581,38 @@
         "long": {
             "default": "U.S. Virgin Islands"
         }
+    },
+    {
+        "parent": "US",
+        "ids": {
+            "fips": "AQ",
+            "geonames": 5880801,
+            "iso_3166_2": "US-AS"
+        },
+        "long": {
+            "default": "American Samoa"
+        }
+    },
+    {
+        "parent": "US",
+        "ids": {
+            "fips": "GQ",
+            "geonames": 4043988,
+            "iso_3166_2": "US-GU"
+        },
+        "long": {
+            "default": "Guam"
+        }
+    },
+    {
+        "parent": "US",
+        "ids": {
+            "fips": "CQ",
+            "geonames": 4041468,
+            "iso_3166_2": "US-MP"
+        },
+        "long": {
+            "default": "Northern Mariana Islands"
+        }
     }
 ]
